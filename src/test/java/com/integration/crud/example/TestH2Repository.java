@@ -1,4 +1,4 @@
-package com.javatechie.crud.example;
+package com.integration.crud.example;
 
 import com.integration.crud.example.entity.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
